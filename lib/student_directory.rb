@@ -11,3 +11,7 @@ puts "Freddy Krueger"
 puts "The Joker"
 puts "Michael Myers"
 puts "Norman Bates"
+
+print "Oversll, we have "
+print 11
+puts " great students."
